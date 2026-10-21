@@ -40,15 +40,15 @@
     <thead>
         <tr>
             <th>Course</th>
-            <th>Duration</th>
+            <th>Completion Date</th>
             <th>Key Takeaways</th>
         </tr>
     </thead>
     <tbody>
         <tr>
             <td><a href="coursepages/intro-cs/README.md">Introduction to Computer Science and Programming using Python</a></td>
-            <td></td>
-            <td></td>
+            <td>Aug 2026</td>
+            <td>Learned Python basics, algorithms, and data structures.</td>
         </tr>
     </tbody>
 </table>
