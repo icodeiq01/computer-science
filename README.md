@@ -3,13 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <title>Open Source Society University - Curriculum</title>
-    <style>
-        body { font-family: Arial, sans-serif; line-height: 1.6; margin: 20px; color: #333; }
-        table { width: 100%; border-collapse: collapse; margin: 20px 0; }
-        th, td { border: 1px solid #ddd; padding: 10px; text-align: left; }
-        th { background-color: #f4f4f4; }
-        code { background-color: #f9f9f9; padding: 2px 5px; border-radius: 4px; }
-    </style>
 </head>
 <body>
 
