@@ -41,14 +41,14 @@
         <tr>
             <th>Course</th>
             <th>Duration</th>
-            <th>Effort</th>
+            <th>Key Takeaways</th>
         </tr>
     </thead>
     <tbody>
         <tr>
             <td><a href="coursepages/intro-cs/README.md">Introduction to Computer Science and Programming using Python</a></td>
-            <td>14 weeks</td>
-            <td>6-10 hours/week</td>
+            <td></td>
+            <td></td>
         </tr>
     </tbody>
 </table>
@@ -65,34 +65,34 @@
         <tr>
             <th>Course</th>
             <th>Duration</th>
-            <th>Effort</th>
+            <th>Key Takeaways</th>
         </tr>
     </thead>
     <tbody>
         <tr>
             <td><a href="coursepages/spd/README.md">Systematic Program Design</a></td>
-            <td>13 weeks</td>
-            <td>8-10 hours/week</td>
+            <td></td>
+            <td></td>
         </tr>
         <tr>
             <td><a href="coursepages/class-based/README.md">Class-based Program Design</a></td>
-            <td>13 weeks</td>
-            <td>5-10 hours/week</td>
+            <td></td>
+            <td></td>
         </tr>
         <tr>
             <td><a href="https://courses.cs.washington.edu/courses/cse341/19sp/#lectures">Programming Languages</a></td>
-            <td>11 weeks</td>
-            <td>4-8 hours/week</td>
+            <td></td>
+            <td></td>
         </tr>
         <tr>
             <td><a href="https://course.ccs.neu.edu/cs3500f19/">Object-Oriented Design</a></td>
-            <td>13 weeks</td>
-            <td>5-10 hours/week</td>
+            <td></td>
+            <td></td>
         </tr>
         <tr>
             <td><a href="https://www.coursera.org/learn/software-architecture">Software Architecture</a></td>
-            <td>4 weeks</td>
-            <td>2-5 hours/week</td>
+            <td></td>
+            <td></td>
         </tr>
     </tbody>
 </table>
@@ -107,29 +107,29 @@
         <tr>
             <th>Course</th>
             <th>Duration</th>
-            <th>Effort</th>
+            <th>Key Takeaways</th>
         </tr>
     </thead>
     <tbody>
         <tr>
             <td><a href="https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.1x+2T2019/about">Calculus 1A: Differentiation</a> (<a href="https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/index.htm">alternative</a>)</td>
-            <td>13 weeks</td>
-            <td>6-10 hours/week</td>
+            <td></td>
+            <td></td>
         </tr>
         <tr>
             <td><a href="https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.2x+3T2019/about">Calculus 1B: Integration</a></td>
-            <td>13 weeks</td>
-            <td>5-10 hours/week</td>
+            <td></td>
+            <td></td>
         </tr>
         <tr>
             <td><a href="https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.3x+1T2020/about">Calculus 1C: Coordinate Systems & Infinite Series</a></td>
-            <td>6 weeks</td>
-            <td>5-10 hours/week</td>
+            <td></td>
+            <td></td>
         </tr>
         <tr>
             <td><a href="https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/about">Mathematics for Computer Science</a> (<a href="https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/">alternative</a>)</td>
-            <td>13 weeks</td>
-            <td>5 hours/week</td>
+            <td></td>
+            <td></td>
         </tr>
     </tbody>
 </table>
@@ -144,14 +144,14 @@
         <tr>
             <th>Course</th>
             <th>Duration</th>
-            <th>Effort</th>
+            <th>Key Takeaways</th>
         </tr>
     </thead>
     <tbody>
         <tr>
             <td><a href="https://missing.csail.mit.edu/">The Missing Semester of Your CS Education</a></td>
-            <td>2 weeks</td>
-            <td>12 hours/week</td>
+            <td></td>
+            <td></td>
         </tr>
     </tbody>
 </table>
@@ -165,29 +165,29 @@
         <tr>
             <th>Course</th>
             <th>Duration</th>
-            <th>Effort</th>
+            <th>Key Takeaways</th>
         </tr>
     </thead>
     <tbody>
         <tr>
             <td><a href="https://www.coursera.org/learn/build-a-computer">Build a Modern Computer from First Principles: From Nand to Tetris</a> (<a href="https://www.nand2tetris.org/">alternative</a>)</td>
-            <td>6 weeks</td>
-            <td>7-13 hours/week</td>
+            <td></td>
+            <td></td>
         </tr>
         <tr>
             <td><a href="https://www.coursera.org/learn/nand2tetris2">Build a Modern Computer from First Principles: Nand to Tetris Part II</a></td>
-            <td>6 weeks</td>
-            <td>12-18 hours/week</td>
+            <td></td>
+            <td></td>
         </tr>
         <tr>
             <td><a href="coursepages/ostep/README.md">Operating Systems: Three Easy Pieces</a></td>
-            <td>10-12 weeks</td>
-            <td>6-10 hours/week</td>
+            <td></td>
+            <td></td>
         </tr>
         <tr>
             <td><a href="https://gaia.cs.umass.edu/kurose_ross/online_lectures.htm">Computer Networking: a Top-Down Approach</a></td>
-            <td>8 weeks</td>
-            <td>4–12 hours/week</td>
+            <td></td>
+            <td></td>
         </tr>
     </tbody>
 </table>
@@ -201,19 +201,19 @@
         <tr>
             <th>Course</th>
             <th>Duration</th>
-            <th>Effort</th>
+            <th>Key Takeaways</th>
         </tr>
     </thead>
     <tbody>
         <tr>
             <td><a href="https://www.edx.org/learn/algorithms/stanford-university-algorithms-design-and-analysis-part-1">Algorithms: Design and Analysis, Part 1</a> (<a href="https://www.algorithmsilluminated.org/">alternative</a>)</td>
-            <td>8 weeks</td>
-            <td>4-8 hours/week</td>
+            <td></td>
+            <td></td>
         </tr>
         <tr>
             <td><a href="https://www.edx.org/learn/algorithms/stanford-university-algorithms-design-and-analysis-part-2">Algorithms: Design and Analysis, Part 2</a></td>
-            <td>8 weeks</td>
-            <td>4-8 hours/week</td>
+            <td></td>
+            <td></td>
         </tr>
     </tbody>
 </table>
@@ -227,24 +227,24 @@
         <tr>
             <th>Course</th>
             <th>Duration</th>
-            <th>Effort</th>
+            <th>Key Takeaways</th>
         </tr>
     </thead>
     <tbody>
         <tr>
             <td><a href="https://www.edx.org/learn/cybersecurity/rochester-institute-of-technology-cybersecurity-fundamentals">Cybersecurity Fundamentals</a></td>
-            <td>8 weeks</td>
-            <td>10-12 hours/week</td>
+            <td></td>
+            <td></td>
         </tr>
         <tr>
             <td><a href="https://www.coursera.org/learn/secure-coding-principles">Principles of Secure Coding</a></td>
-            <td>4 weeks</td>
-            <td>4 hours/week</td>
+            <td></td>
+            <td></td>
         </tr>
         <tr>
             <td><a href="https://www.coursera.org/learn/identifying-security-vulnerabilities">Identifying Security Vulnerabilities</a></td>
-            <td>4 weeks</td>
-            <td>4 hours/week</td>
+            <td></td>
+            <td></td>
         </tr>
     </tbody>
 </table>
@@ -255,19 +255,19 @@
         <tr>
             <th>Course</th>
             <th>Duration</th>
-            <th>Effort</th>
+            <th>Key Takeaways</th>
         </tr>
     </thead>
     <tbody>
         <tr>
             <td><a href="https://www.coursera.org/learn/identifying-security-vulnerabilities-c-programming">Identifying Security Vulnerabilities in C/C++ Programming</a></td>
-            <td>4 weeks</td>
-            <td>5 hours/week</td>
+            <td></td>
+            <td></td>
         </tr>
         <tr>
             <td><a href="https://www.coursera.org/learn/exploiting-securing-vulnerabilities-java-applications">Exploiting and Securing Vulnerabilities in Java Applications</a></td>
-            <td>4 weeks</td>
-            <td>5 hours/week</td>
+            <td></td>
+            <td></td>
         </tr>
     </tbody>
 </table>
@@ -281,39 +281,39 @@
         <tr>
             <th>Course</th>
             <th>Duration</th>
-            <th>Effort</th>
+            <th>Key Takeaways</th>
         </tr>
     </thead>
     <tbody>
         <tr>
             <td><a href="https://www.edx.org/learn/databases/stanford-university-databases-modeling-and-theory">Databases: Modeling and Theory</a></td>
-            <td>2 weeks</td>
-            <td>10 hours/week</td>
+            <td></td>
+            <td></td>
         </tr>
         <tr>
             <td><a href="https://www.edx.org/learn/relational-databases/stanford-university-databases-relational-databases-and-sql">Databases: Relational Databases and SQL</a></td>
-            <td>2 weeks</td>
-            <td>10 hours/week</td>
+            <td></td>
+            <td></td>
         </tr>
         <tr>
             <td><a href="https://www.edx.org/learn/relational-databases/stanford-university-databases-semistructured-data">Databases: Semistructured Data</a></td>
-            <td>2 weeks</td>
-            <td>10 hours/week</td>
+            <td></td>
+            <td></td>
         </tr>
         <tr>
             <td><a href="https://www.deeplearning.ai/courses/machine-learning-specialization/">Machine Learning</a></td>
-            <td>11 weeks</td>
-            <td>9 hours/week</td>
+            <td></td>
+            <td></td>
         </tr>
         <tr>
             <td><a href="https://www.edx.org/learn/computer-graphics/the-university-of-california-san-diego-computer-graphics">Computer Graphics</a> (<a href="https://cseweb.ucsd.edu/~viscomp/classes/cse167/wi22/schedule.html">alternative</a>)</td>
-            <td>6 weeks</td>
-            <td>12 hours/week</td>
+            <td></td>
+            <td></td>
         </tr>
         <tr>
             <td><a href="https://www.edx.org/learn/software-engineering/university-of-british-columbia-software-engineering-introduction">Software Engineering: Introduction</a> (<a href="https://github.com/ubccpsc/310/blob/main/resources/README.md">alternative</a>)</td>
-            <td>6 weeks</td>
-            <td>8-10 hours/week</td>
+            <td></td>
+            <td></td>
         </tr>
     </tbody>
 </table>
@@ -327,24 +327,24 @@
         <tr>
             <th>Course</th>
             <th>Duration</th>
-            <th>Effort</th>
+            <th>Key Takeaways</th>
         </tr>
     </thead>
     <tbody>
         <tr>
             <td><a href="https://www.coursera.org/learn/ethics-technology-engineering">Ethics, Technology and Engineering</a></td>
-            <td>9 weeks</td>
-            <td>2 hours/week</td>
+            <td></td>
+            <td></td>
         </tr>
         <tr>
             <td><a href="https://www.coursera.org/learn/introduction-intellectual-property">Introduction to Intellectual Property</a></td>
-            <td>4 weeks</td>
-            <td>2 hours/week</td>
+            <td></td>
+            <td></td>
         </tr>
         <tr>
             <td><a href="https://www.coursera.org/learn/northeastern-data-privacy">Data Privacy Fundamentals</a></td>
-            <td>3 weeks</td>
-            <td>3 hours/week</td>
+            <td></td>
+            <td></td>
         </tr>
     </tbody>
 </table>
@@ -361,39 +361,39 @@
         <tr>
             <th>Course</th>
             <th>Duration</th>
-            <th>Effort</th>
+            <th>Key Takeaways</th>
         </tr>
     </thead>
     <tbody>
         <tr>
             <td><a href="https://www.coursera.org/learn/scala-parallel-programming">Parallel Programming</a></td>
-            <td>4 weeks</td>
-            <td>6-8 hours/week</td>
+            <td></td>
+            <td></td>
         </tr>
         <tr>
             <td><a href="https://www.edx.org/learn/computer-science/stanford-university-compilers">Compilers</a></td>
-            <td>9 weeks</td>
-            <td>6-8 hours/week</td>
+            <td></td>
+            <td></td>
         </tr>
         <tr>
             <td><a href="https://www.seas.upenn.edu/~cis194/fall16/">Introduction to Haskell</a></td>
-            <td>14 weeks</td>
-            <td>-</td>
+            <td></td>
+            <td></td>
         </tr>
         <tr>
             <td><a href="https://www.let.rug.nl/bos/lpn//lpnpage.php?pageid=online">Learn Prolog Now!</a> (<a href="https://github.com/ossu/computer-science/files/6085884/lpn.pdf">alternative</a>)*</td>
-            <td>12 weeks</td>
-            <td>-</td>
+            <td></td>
+            <td></td>
         </tr>
         <tr>
             <td><a href="https://www.youtube.com/playlist?list=PLAwxTw4SYaPkxK63TiT88oEe-AIBhr96A">Software Debugging</a></td>
-            <td>8 weeks</td>
-            <td>6 hours/week</td>
+            <td></td>
+            <td></td>
         </tr>
         <tr>
             <td><a href="https://www.youtube.com/playlist?list=PLAwxTw4SYaPkWVHeC_8aSIbSxE_NXI76g">Software Testing</a></td>
-            <td>4 weeks</td>
-            <td>6 hours/week</td>
+            <td></td>
+            <td></td>
         </tr>
     </tbody>
 </table>
@@ -407,24 +407,24 @@
         <tr>
             <th>Course</th>
             <th>Duration</th>
-            <th>Effort</th>
+            <th>Key Takeaways</th>
         </tr>
     </thead>
     <tbody>
         <tr>
             <td><a href="https://learning.edx.org/course/course-v1:MITx+6.004.1x_3+3T2016">Computation Structures 1: Digital Circuits</a></td>
-            <td>10 weeks</td>
-            <td>6 hours/week</td>
+            <td></td>
+            <td></td>
         </tr>
         <tr>
             <td><a href="https://learning.edx.org/course/course-v1:MITx+6.004.2x+3T2015">Computation Structures 2: Computer Architecture</a></td>
-            <td>10 weeks</td>
-            <td>6 hours/week</td>
+            <td></td>
+            <td></td>
         </tr>
         <tr>
             <td><a href="https://learning.edx.org/course/course-v1:MITx+6.004.3x_2+1T2017">Computation Structures 3: Computer Organization</a></td>
-            <td>10 weeks</td>
-            <td>6 hours/week</td>
+            <td></td>
+            <td></td>
         </tr>
     </tbody>
 </table>
@@ -438,24 +438,24 @@
         <tr>
             <th>Course</th>
             <th>Duration</th>
-            <th>Effort</th>
+            <th>Key Takeaways</th>
         </tr>
     </thead>
     <tbody>
         <tr>
             <td><a href="https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/">Theory of Computation</a> (<a href="https://www.youtube.com/playlist?list=PLEE7DF8F5E0203A56">alternative</a>)</td>
-            <td>13 weeks</td>
-            <td>10 hours/week</td>
+            <td></td>
+            <td></td>
         </tr>
         <tr>
             <td><a href="https://www.edx.org/learn/geometry/tsinghua-university-ji-suan-ji-he-computational-geometry">Computational Geometry</a></td>
-            <td>16 weeks</td>
-            <td>8 hours/week</td>
+            <td></td>
+            <td></td>
         </tr>
         <tr>
             <td><a href="https://timroughgarden.org/f13/f13.html">Algorithmic Game Theory</a></td>
-            <td>10 weeks</td>
-            <td>12 hours/week</td>
+            <td></td>
+            <td></td>
         </tr>
     </tbody>
 </table>
@@ -466,39 +466,39 @@
         <tr>
             <th>Course</th>
             <th>Duration</th>
-            <th>Effort</th>
+            <th>Key Takeaways</th>
         </tr>
     </thead>
     <tbody>
         <tr>
             <td><a href="https://www.edx.org/learn/computer-security/ku-leuven-web-security-fundamentals">Web Security Fundamentals</a></td>
-            <td>5 weeks</td>
-            <td>4-6 hours/week</td>
+            <td></td>
+            <td></td>
         </tr>
         <tr>
             <td><a href="https://www.coursera.org/learn/security-governance-compliance">Security Governance & Compliance</a></td>
-            <td>3 weeks</td>
-            <td>3 hours/week</td>
+            <td></td>
+            <td></td>
         </tr>
         <tr>
             <td><a href="https://www.coursera.org/learn/digital-forensics-concepts">Digital Forensics Concepts</a></td>
-            <td>3 weeks</td>
-            <td>2-3 hours/week</td>
+            <td></td>
+            <td></td>
         </tr>
         <tr>
             <td><a href="https://www.edx.org/learn/software-development/the-linux-foundation-secure-software-development-requirements-design-and-reuse">Secure Software Development: Requirements, Design, and Reuse</a></td>
-            <td>7 weeks</td>
-            <td>1-2 hours/week</td>
+            <td></td>
+            <td></td>
         </tr>
         <tr>
             <td><a href="https://www.edx.org/learn/software-development/the-linux-foundation-secure-software-development-implementation">Secure Software Development: Implementation</a></td>
-            <td>7 weeks</td>
-            <td>1-2 hours/week</td>
+            <td></td>
+            <td></td>
         </tr>
         <tr>
             <td><a href="https://www.edx.org/learn/software-engineering/the-linux-foundation-secure-software-development-verification-and-more-specialized-topics">Secure Software Development: Verification and More Specialized Topics</a></td>
-            <td>7 weeks</td>
-            <td>1-2 hours/week</td>
+            <td></td>
+            <td></td>
         </tr>
     </tbody>
 </table>
@@ -509,34 +509,34 @@
         <tr>
             <th>Course</th>
             <th>Duration</th>
-            <th>Effort</th>
+            <th>Key Takeaways</th>
         </tr>
     </thead>
     <tbody>
         <tr>
             <td><a href="https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab">Essence of Linear Algebra</a></td>
-            <td>-</td>
-            <td>-</td>
+            <td></td>
+            <td></td>
         </tr>
         <tr>
             <td><a href="https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/">Linear Algebra</a></td>
-            <td>14 weeks</td>
-            <td>12 hours/week</td>
+            <td></td>
+            <td></td>
         </tr>
         <tr>
             <td><a href="https://ocw.mit.edu/courses/mathematics/18-335j-introduction-to-numerical-methods-spring-2019/index.htm">Introduction to Numerical Methods</a></td>
-            <td>14 weeks</td>
-            <td>12 hours/week</td>
+            <td></td>
+            <td></td>
         </tr>
         <tr>
             <td><a href="https://forallx.openlogicproject.org/">Introduction to Formal Logic</a></td>
-            <td>10 weeks</td>
-            <td>4-8 hours/week</td>
+            <td></td>
+            <td></td>
         </tr>
         <tr>
             <td><a href="https://stat110.hsites.harvard.edu/">Probability</a></td>
-            <td>15 weeks</td>
-            <td>5-10 hours/week</td>
+            <td></td>
+            <td></td>
         </tr>
     </tbody>
 </table>
@@ -549,54 +549,54 @@
         <tr>
             <th>Course</th>
             <th>Duration</th>
-            <th>Effort</th>
+            <th>Key Takeaways</th>
         </tr>
     </thead>
     <tbody>
         <tr>
             <td><a href="https://fullstackopen.com/en/">Fullstack Open</a></td>
-            <td>12 weeks</td>
-            <td>15 hours/week</td>
+            <td></td>
+            <td></td>
         </tr>
         <tr>
             <td><a href="https://modernrobotics.northwestern.edu">Modern Robotics</a></td>
-            <td>26 weeks</td>
-            <td>2-5 hours/week</td>
+            <td></td>
+            <td></td>
         </tr>
         <tr>
             <td><a href="https://www.coursera.org/specializations/data-mining">Data Mining (Specialization)</a></td>
-            <td>30 weeks</td>
-            <td>2-5 hours/week</td>
+            <td></td>
+            <td></td>
         </tr>
         <tr>
             <td><a href="https://www.coursera.org/specializations/big-data">Big Data (Specialization)</a></td>
-            <td>30 weeks</td>
-            <td>3-5 hours/week</td>
+            <td></td>
+            <td></td>
         </tr>
         <tr>
             <td><a href="https://www.coursera.org/specializations/internet-of-things">Internet of Things (Specialization)</a></td>
-            <td>30 weeks</td>
-            <td>1-5 hours/week</td>
+            <td></td>
+            <td></td>
         </tr>
         <tr>
             <td><a href="https://www.coursera.org/specializations/cloud-computing">Cloud Computing (Specialization)</a></td>
-            <td>30 weeks</td>
-            <td>2-6 hours/week</td>
+            <td></td>
+            <td></td>
         </tr>
         <tr>
             <td><a href="https://www.coursera.org/specializations/jhu-data-science">Data Science (Specialization)</a></td>
-            <td>43 weeks</td>
-            <td>1-6 hours/week</td>
+            <td></td>
+            <td></td>
         </tr>
         <tr>
             <td><a href="https://www.coursera.org/specializations/scala">Functional Programming in Scala (Specialization)</a></td>
-            <td>29 weeks</td>
-            <td>4-5 hours/week</td>
+            <td></td>
+            <td></td>
         </tr>
         <tr>
             <td><a href="https://www.coursera.org/specializations/game-design-and-development">Game Design and Development with Unity 2020 (Specialization)</a></td>
-            <td>6 months</td>
-            <td>5 hours/week</td>
+            <td></td>
+            <td></td>
         </tr>
     </tbody>
 </table>
