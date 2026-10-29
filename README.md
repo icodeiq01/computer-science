@@ -68,8 +68,8 @@
     </thead>
     <tbody>
         <tr>
-            <td>✅<a href="coursepages/spd/README.md">Systematic Program Design</a></td>
-            <td></td>
+            <td>✅ <a href="coursepages/spd/README.md">Systematic Program Design</a></td>
+            <td>Studied the course using Dart and C#, and did not study the original languages because I don't need them and I am not a beginner.</td>
         </tr>
         <tr>
             <td><a href="coursepages/class-based/README.md">Class-based Program Design</a></td>
