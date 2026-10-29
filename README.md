@@ -41,7 +41,7 @@
         <tr>
             <th>Course</th>
             <th>What I learned</th>
-            ✅
+            
         </tr>
     </thead>
     <tbody>
@@ -68,7 +68,7 @@
     </thead>
     <tbody>
         <tr>
-            <td><a href="coursepages/spd/README.md">Systematic Program Design</a></td>
+            <td>✅<a href="coursepages/spd/README.md">Systematic Program Design</a></td>
             <td></td>
         </tr>
         <tr>
