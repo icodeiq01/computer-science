@@ -526,4 +526,11 @@
 
 <h2>Team</h2>
 <ul>
-    <li><strong><a href="https://github.com/ericdouglas">Eric Douglas</a></strong>: founder of OSSU
+    <li><strong><a href="https://github.com/ericdouglas">Eric Douglas</a></strong>: founder of OSSU</li>
+    <li><strong><a href="https://github.com/joshmhanson">Josh Hanson</a></strong>: lead technical maintainer</li>
+    <li><strong><a href="https://github.com/waciumawanjohi">Waciuma Wanjohi</a></strong>: lead academic maintainer</li>
+    <li><strong><a href="https://github.com/ossu/computer-science/graphs/contributors">Contributors</a></strong></li>
+</ul>
+
+</body>
+</html>
