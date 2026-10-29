@@ -40,7 +40,7 @@
     <thead>
         <tr>
             <th>Course</th>
-            <th>Completion Date</th>
+            <th>What I learned</th>
             <th>Key Takeaways</th>
         </tr>
     </thead>
@@ -64,7 +64,7 @@
     <thead>
         <tr>
             <th>Course</th>
-            <th>Duration</th>
+            <th>What I learned</th>
             <th>Key Takeaways</th>
         </tr>
     </thead>
@@ -106,7 +106,7 @@
     <thead>
         <tr>
             <th>Course</th>
-            <th>Duration</th>
+            <th>What I learned</th>
             <th>Key Takeaways</th>
         </tr>
     </thead>
@@ -143,7 +143,7 @@
     <thead>
         <tr>
             <th>Course</th>
-            <th>Duration</th>
+            <th>What I learned</th>
             <th>Key Takeaways</th>
         </tr>
     </thead>
@@ -164,7 +164,7 @@
     <thead>
         <tr>
             <th>Course</th>
-            <th>Duration</th>
+            <th>What I learned</th>
             <th>Key Takeaways</th>
         </tr>
     </thead>
@@ -200,7 +200,7 @@
     <thead>
         <tr>
             <th>Course</th>
-            <th>Duration</th>
+            <th>What I learned</th>
             <th>Key Takeaways</th>
         </tr>
     </thead>
@@ -226,7 +226,7 @@
     <thead>
         <tr>
             <th>Course</th>
-            <th>Duration</th>
+            <th>What I learned</th>
             <th>Key Takeaways</th>
         </tr>
     </thead>
@@ -254,7 +254,7 @@
     <thead>
         <tr>
             <th>Course</th>
-            <th>Duration</th>
+            <th>What I learned</th>
             <th>Key Takeaways</th>
         </tr>
     </thead>
@@ -280,7 +280,7 @@
     <thead>
         <tr>
             <th>Course</th>
-            <th>Duration</th>
+            <th>What I learned</th>
             <th>Key Takeaways</th>
         </tr>
     </thead>
@@ -326,7 +326,7 @@
     <thead>
         <tr>
             <th>Course</th>
-            <th>Duration</th>
+            <th>What I learned</th>
             <th>Key Takeaways</th>
         </tr>
     </thead>
@@ -360,7 +360,7 @@
     <thead>
         <tr>
             <th>Course</th>
-            <th>Duration</th>
+            <th>What I learned</th>
             <th>Key Takeaways</th>
         </tr>
     </thead>
@@ -391,225 +391,4 @@
             <td></td>
         </tr>
         <tr>
-            <td><a href="https://www.youtube.com/playlist?list=PLAwxTw4SYaPkWVHeC_8aSIbSxE_NXI76g">Software Testing</a></td>
-            <td></td>
-            <td></td>
-        </tr>
-    </tbody>
-</table>
-
-<h3>Advanced systems</h3>
-<p><strong>Topics covered</strong>:<br>
-<code>digital signaling</code> <code>combinational logic</code> <code>CMOS technologies</code> <code>sequential logic</code> <code>finite state machines</code> <code>processor instruction sets</code> <code>caches</code> <code>pipelining</code> <code>virtualization</code> <code>parallel processing</code> <code>virtual memory</code> <code>synchronization primitives</code> <code>system call interface</code> <code>and more</code></p>
-
-<table>
-    <thead>
-        <tr>
-            <th>Course</th>
-            <th>Duration</th>
-            <th>Key Takeaways</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td><a href="https://learning.edx.org/course/course-v1:MITx+6.004.1x_3+3T2016">Computation Structures 1: Digital Circuits</a></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td><a href="https://learning.edx.org/course/course-v1:MITx+6.004.2x+3T2015">Computation Structures 2: Computer Architecture</a></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td><a href="https://learning.edx.org/course/course-v1:MITx+6.004.3x_2+1T2017">Computation Structures 3: Computer Organization</a></td>
-            <td></td>
-            <td></td>
-        </tr>
-    </tbody>
-</table>
-
-<h3>Advanced theory</h3>
-<p><strong>Topics covered</strong>:<br>
-<code>formal languages</code> <code>Turing machines</code> <code>computability</code> <code>event-driven concurrency</code> <code>automata</code> <code>distributed shared memory</code> <code>consensus algorithms</code> <code>state machine replication</code> <code>computational geometry theory</code> <code>propositional logic</code> <code>relational logic</code> <code>Herbrand logic</code> <code>game trees</code> <code>and more</code></p>
-
-<table>
-    <thead>
-        <tr>
-            <th>Course</th>
-            <th>Duration</th>
-            <th>Key Takeaways</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td><a href="https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/">Theory of Computation</a> (<a href="https://www.youtube.com/playlist?list=PLEE7DF8F5E0203A56">alternative</a>)</td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td><a href="https://www.edx.org/learn/geometry/tsinghua-university-ji-suan-ji-he-computational-geometry">Computational Geometry</a></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td><a href="https://timroughgarden.org/f13/f13.html">Algorithmic Game Theory</a></td>
-            <td></td>
-            <td></td>
-        </tr>
-    </tbody>
-</table>
-
-<h3>Advanced Information Security</h3>
-<table>
-    <thead>
-        <tr>
-            <th>Course</th>
-            <th>Duration</th>
-            <th>Key Takeaways</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td><a href="https://www.edx.org/learn/computer-security/ku-leuven-web-security-fundamentals">Web Security Fundamentals</a></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td><a href="https://www.coursera.org/learn/security-governance-compliance">Security Governance & Compliance</a></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td><a href="https://www.coursera.org/learn/digital-forensics-concepts">Digital Forensics Concepts</a></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td><a href="https://www.edx.org/learn/software-development/the-linux-foundation-secure-software-development-requirements-design-and-reuse">Secure Software Development: Requirements, Design, and Reuse</a></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td><a href="https://www.edx.org/learn/software-development/the-linux-foundation-secure-software-development-implementation">Secure Software Development: Implementation</a></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td><a href="https://www.edx.org/learn/software-engineering/the-linux-foundation-secure-software-development-verification-and-more-specialized-topics">Secure Software Development: Verification and More Specialized Topics</a></td>
-            <td></td>
-            <td></td>
-        </tr>
-    </tbody>
-</table>
-
-<h3>Advanced math</h3>
-<table>
-    <thead>
-        <tr>
-            <th>Course</th>
-            <th>Duration</th>
-            <th>Key Takeaways</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td><a href="https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab">Essence of Linear Algebra</a></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td><a href="https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/">Linear Algebra</a></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td><a href="https://ocw.mit.edu/courses/mathematics/18-335j-introduction-to-numerical-methods-spring-2019/index.htm">Introduction to Numerical Methods</a></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td><a href="https://forallx.openlogicproject.org/">Introduction to Formal Logic</a></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td><a href="https://stat110.hsites.harvard.edu/">Probability</a></td>
-            <td></td>
-            <td></td>
-        </tr>
-    </tbody>
-</table>
-
-<h2 id="final-project">Final project</h2>
-<p>Part of learning is doing. The assignments and exams for each course are to prepare you to use your knowledge to solve real-world problems.</p>
-
-<table>
-    <thead>
-        <tr>
-            <th>Course</th>
-            <th>Duration</th>
-            <th>Key Takeaways</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td><a href="https://fullstackopen.com/en/">Fullstack Open</a></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td><a href="https://modernrobotics.northwestern.edu">Modern Robotics</a></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td><a href="https://www.coursera.org/specializations/data-mining">Data Mining (Specialization)</a></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td><a href="https://www.coursera.org/specializations/big-data">Big Data (Specialization)</a></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td><a href="https://www.coursera.org/specializations/internet-of-things">Internet of Things (Specialization)</a></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td><a href="https://www.coursera.org/specializations/cloud-computing">Cloud Computing (Specialization)</a></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td><a href="https://www.coursera.org/specializations/jhu-data-science">Data Science (Specialization)</a></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td><a href="https://www.coursera.org/specializations/scala">Functional Programming in Scala (Specialization)</a></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td><a href="https://www.coursera.org/specializations/game-design-and-development">Game Design and Development with Unity 2020 (Specialization)</a></td>
-            <td></td>
-            <td></td>
-        </tr>
-    </tbody>
-</table>
-
-<hr>
-
-<h2>Team</h2>
-<ul>
-    <li><strong><a href="https://github.com/ericdouglas">Eric Douglas</a></strong>: founder of OSSU</li>
-    <li><strong><a href="https://github.com/joshmhanson">Josh Hanson</a></strong>: lead technical maintainer</li>
-    <li><strong><a href="https://github.com/waciumawanjohi">Waciuma Wanjohi</a></strong>: lead academic maintainer</li>
-    <li><strong><a href="https://github.com/ossu/computer-science/graphs/contributors">Contributors</a></strong></li>
-</ul>
-
-</body>
-</html>
+            <td><a href="
