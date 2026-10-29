@@ -41,7 +41,6 @@
         <tr>
             <th>Course</th>
             <th>What I learned</th>
-            
         </tr>
     </thead>
     <tbody>
@@ -89,6 +88,9 @@
         </tr>
     </tbody>
 </table>
+
+</body>
+</html>
 
 <h3>Core math</h3>
 <p>Discrete math (Math for CS) is a prerequisite and closely related to the study of algorithms and data structures. Calculus both prepares students for discrete math and helps students develop mathematical maturity.</p>
