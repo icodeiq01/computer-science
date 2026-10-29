@@ -40,7 +40,7 @@
     <thead>
         <tr>
             <th>Course</th>
-            <th>What I learned</th>
+            <th>✅/th>
         </tr>
     </thead>
     <tbody>
