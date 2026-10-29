@@ -41,6 +41,7 @@
         <tr>
             <th>Course</th>
             <th>What I learned</th>
+            ✅
         </tr>
     </thead>
     <tbody>
