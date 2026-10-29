@@ -68,7 +68,7 @@
     <tbody>
         <tr>
             <td> <a href="coursepages/spd/README.md">Systematic Program Design</a></td>
-            <td>"This course originally uses Racket (BSL). However, I applied all concepts using Dart and C# since I am not a beginner and don't need to learn Racket."</td>
+            <td>This course originally uses Racket (BSL). However, I applied all concepts using Dart and C# since I am not a beginner and don't need to learn Racket."</td>
         </tr>
         <tr>
             <td><a href="coursepages/class-based/README.md">Class-based Program Design</a></td>
