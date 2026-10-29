@@ -46,7 +46,7 @@
     <tbody>
         <tr>
             <td><a href="coursepages/intro-cs/README.md">Introduction to Computer Science and Programming using Python</a></td>
-            <td>Aug 2026</td>
+            <td>Completed CS50x on edX (2023)</td>
         </tr>
     </tbody>
 </table>
