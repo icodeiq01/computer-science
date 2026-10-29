@@ -46,7 +46,7 @@
     <tbody>
         <tr>
             <td><a href="coursepages/intro-cs/README.md">Introduction to Computer Science and Programming using Python</a></td>
-            <td>Completed CS50x on edX (2023)</td>
+            <td>Completed CS50x on edX (2023) No need to study again</td>
         </tr>
     </tbody>
 </table>
